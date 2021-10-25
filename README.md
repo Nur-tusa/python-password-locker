@@ -8,7 +8,7 @@
 # author
 nur nure tusa
 
-#description
+# description
 This is app will help people generate password and store their password incase one forget his password can refer to this app which he or she saved in it
 
 
