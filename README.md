@@ -16,12 +16,12 @@ This is app will help people generate password and store their password incase o
 ## BDD
 | form     | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Create New Account for password-locker or  Have An existing Account   |  cc or li |    |
+|  Create New Account for password-locker or  Have An existing Account |  cc or li |  next step  |
 | creat |name-tusa    |   choose cr to continue  |
 
 |  creat password |   satar.6 |    succefully registerd |
 
-|   |   if account already exist (li) |  username tusa   and password | welcome
+|     if account already exist (li) |  username tusa   and password | welcome
 
 
 
